@@ -8,6 +8,9 @@ public class Game {
     int count;
     int wins;
 
+    public Game(int min, int max){
+        this.secret = random.nextInt((max - min) + 1 + min);
+    }
     void  generateSecret(){
         this.secret = random.nextInt(10)+1;
     }
