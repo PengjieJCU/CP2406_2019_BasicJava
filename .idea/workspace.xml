@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbcfcb97-f5c7-4045-9175-73bdf5190017" name="Default Changelist" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/week5/AscendingAndDescending.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week5/CandoSales.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week5/CellPhoneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week5/CondoSales2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week5/EvenOld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week5/PastPresentFuture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week5/PastPresentFuture2.java" afterDir="false" />
+    <list default="true" id="bbcfcb97-f5c7-4045-9175-73bdf5190017" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/week5/CountByThree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b6640476-fc09-497e-a23e-d47fafc0eb54" name="set secrete member field with a randon number between min and max" comment="set secrete member field with a randon number between min and max" />
@@ -28,37 +22,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/week5/DebugSix1.java">
+        <entry file="file://$PROJECT_DIR$/src/week5/DebugSix2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="42">
-              <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/week5/DebugSix3.java">
+        <entry file="file://$PROJECT_DIR$/src/week5/CountByThree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/week5/DebugSix4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-105">
-              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/week5/DebugSix2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="147">
+              <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -114,9 +90,10 @@
         <option value="$PROJECT_DIR$/src/week5/PastPresentFuture.java" />
         <option value="$PROJECT_DIR$/src/week5/PastPresentFuture2.java" />
         <option value="$PROJECT_DIR$/src/week5/DebugSix1.java" />
-        <option value="$PROJECT_DIR$/src/week5/DebugSix4.java" />
         <option value="$PROJECT_DIR$/src/week5/DebugSix2.java" />
+        <option value="$PROJECT_DIR$/src/week5/DebugSix4.java" />
         <option value="$PROJECT_DIR$/src/week5/DebugSix3.java" />
+        <option value="$PROJECT_DIR$/src/week5/CountByThree.java" />
       </list>
     </option>
   </component>
@@ -199,9 +176,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DebugSix3">
-    <configuration name="CellPhoneService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week5.CellPhoneService" />
+  <component name="RunManager" selected="Application.CountByThree">
+    <configuration name="CountByThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week5.CountByThree" />
       <module name="CP2406_Practicals" />
       <extension name="coverage">
         <pattern>
@@ -266,19 +243,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CellPhoneService" />
       <item itemvalue="Application.DebugSix1" />
       <item itemvalue="Application.DebugSix2" />
       <item itemvalue="Application.DebugSix4" />
       <item itemvalue="Application.DebugSix3" />
+      <item itemvalue="Application.CountByThree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountByThree" />
         <item itemvalue="Application.DebugSix3" />
+        <item itemvalue="Application.DebugSix4" />
         <item itemvalue="Application.DebugSix2" />
         <item itemvalue="Application.DebugSix1" />
-        <item itemvalue="Application.DebugSix4" />
-        <item itemvalue="Application.CellPhoneService" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +281,7 @@
       <workItem from="1566784547702" duration="670000" />
       <workItem from="1566876433970" duration="9268000" />
       <workItem from="1567049399735" duration="251000" />
-      <workItem from="1567135043895" duration="10035000" />
+      <workItem from="1567135043895" duration="11413000" />
     </task>
     <task id="LOCAL-00001" summary="Amended gitignore">
       <created>1565666906861</created>
@@ -369,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566880469944</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Week 5 practical uploaded">
+      <created>1567146292935</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1567146292935</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -384,7 +368,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73594000" />
+    <option name="totallyTimeSpent" value="74972000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -399,7 +383,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" weight="0.3590604" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" weight="0.35783634" />
       <window_info id="Structure" order="1" sideWeight="0.50141644" side_tool="true" weight="0.17449665" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -515,7 +499,8 @@
     <MESSAGE value="uploaded week 4 pratical" />
     <MESSAGE value="uploaded Task 4 of practical 4" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="Week 5 practical uploaded" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 5 practical uploaded" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -778,24 +763,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/week5/DebugSix3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/week5/DebugSix4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-105">
-          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        <state relative-caret-position="21">
+          <caret line="14" selection-start-line="14" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/week5/DebugSix2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="42">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/week5/DebugSix3.java">
+    <entry file="file://$PROJECT_DIR$/src/week5/CountByThree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        <state relative-caret-position="147">
+          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
         </state>
       </provider>
     </entry>
