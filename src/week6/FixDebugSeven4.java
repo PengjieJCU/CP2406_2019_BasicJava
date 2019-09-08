@@ -3,7 +3,7 @@ package week6;
 // Converts a string to lowercase, and
 // displays the string's length
 // as well as a count of letters
-public class DebugSeven4
+public class FixDebugSeven4
 {
    public static void main(String[] args)
    {
