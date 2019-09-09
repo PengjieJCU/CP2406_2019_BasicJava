@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbcfcb97-f5c7-4045-9175-73bdf5190017" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week6/DistanceFromAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week6/TwelveInts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week6/ValidatePassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/ArrayMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/CarCareChoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/CarCareChoice2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6/DebugSeven1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6/FixDebugSeven1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6/DebugSeven2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6/FixDebugSeven2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6/DebugSeven3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6/FixDebugSeven3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6/DebugSeven4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6/FixDebugSeven4.java" afterDir="false" />
     </list>
     <list id="b6640476-fc09-497e-a23e-d47fafc0eb54" name="set secrete member field with a randon number between min and max" comment="set secrete member field with a randon number between min and max" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -36,11 +32,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/week6/DistanceFromAverage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="22" column="59" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+            <state relative-caret-position="445">
+              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/week6/CarCareChoice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="30" column="9" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="30" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/week6/CarCareChoice2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-10">
+              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/week6/ArrayMethodDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -62,9 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/week4/Sandwich.java" />
-        <option value="$PROJECT_DIR$/src/week4/Student.java" />
-        <option value="$PROJECT_DIR$/src/week4/TestStudent.java" />
         <option value="$PROJECT_DIR$/src/week4/Lease.java" />
         <option value="$PROJECT_DIR$/src/week4/TestLease.java" />
         <option value="$PROJECT_DIR$/src/week4/LeaseTest.java" />
@@ -113,10 +136,13 @@
         <option value="$PROJECT_DIR$/src/week6/DebugEight4.java" />
         <option value="$PROJECT_DIR$/src/week6/TwelveInts.java" />
         <option value="$PROJECT_DIR$/src/week6/DistanceFromAverage.java" />
+        <option value="$PROJECT_DIR$/src/week6/CarCareChoice.java" />
+        <option value="$PROJECT_DIR$/src/week6/CarCareChoice2.java" />
+        <option value="$PROJECT_DIR$/src/week6/ArrayMethodDemo.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="952" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
@@ -129,6 +155,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,7 +185,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -201,9 +227,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DistanceFromAverage">
-    <configuration name="CountMovieSpaces2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week6.CountMovieSpaces2" />
+  <component name="RunManager" selected="Application.ArrayMethodDemo">
+    <configuration name="ArrayMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6.ArrayMethodDemo" />
       <module name="CP2406_Practicals" />
       <extension name="coverage">
         <pattern>
@@ -215,21 +241,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DebugEight1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week6.DebugEight1" />
-      <module name="CP2406_Practicals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DebugEight4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week6.DebugEight4" />
+    <configuration name="CarCareChoice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6.CarCareChoice" />
       <module name="CP2406_Practicals" />
       <extension name="coverage">
         <pattern>
@@ -243,6 +256,19 @@
     </configuration>
     <configuration name="DistanceFromAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week6.DistanceFromAverage" />
+      <module name="CP2406_Practicals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FixDebugEight4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6.FixDebugEight4" />
       <module name="CP2406_Practicals" />
       <extension name="coverage">
         <pattern>
@@ -268,19 +294,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CountMovieSpaces2" />
-      <item itemvalue="Application.DebugEight1" />
-      <item itemvalue="Application.DebugEight4" />
+      <item itemvalue="Application.FixDebugEight4" />
       <item itemvalue="Application.TwelveInts" />
       <item itemvalue="Application.DistanceFromAverage" />
+      <item itemvalue="Application.CarCareChoice" />
+      <item itemvalue="Application.ArrayMethodDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayMethodDemo" />
+        <item itemvalue="Application.CarCareChoice" />
         <item itemvalue="Application.DistanceFromAverage" />
         <item itemvalue="Application.TwelveInts" />
-        <item itemvalue="Application.DebugEight4" />
-        <item itemvalue="Application.DebugEight1" />
-        <item itemvalue="Application.CountMovieSpaces2" />
+        <item itemvalue="Application.FixDebugEight4" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +340,8 @@
       <workItem from="1567473947018" duration="4166000" />
       <workItem from="1567755152796" duration="412000" />
       <workItem from="1567839041447" duration="5602000" />
-      <workItem from="1567855824804" duration="9125000" />
+      <workItem from="1567855824804" duration="9181000" />
+      <workItem from="1568020379822" duration="3705000" />
     </task>
     <task id="LOCAL-00001" summary="Amended gitignore">
       <created>1565666906861</created>
@@ -435,7 +462,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567844306568</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Initial commit">
+      <created>1567920414877</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1567920414877</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -450,7 +484,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108527000" />
+    <option name="totallyTimeSpent" value="112288000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -462,10 +496,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" weight="0.76976424" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" weight="0.481276" />
       <window_info id="Structure" order="1" sideWeight="0.50141644" side_tool="true" weight="0.17449665" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -475,7 +509,7 @@
       <window_info id="Repositories" order="7" weight="0.32963988" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28186968" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27077365" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -485,7 +519,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3295129" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3209169" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.31948423" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -569,21 +603,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/week3/InchesToFeet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="94" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week4/TestSandwich.java" />
-    <entry file="file://$PROJECT_DIR$/src/week4/Sandwich.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/week4/SandwichTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -899,28 +918,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/week6/DebugEight1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week6/DebugEight2.java">
+    <entry file="file://$PROJECT_DIR$/src/week6/FixDebugEight2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="13" column="60" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/week6/DebugEight3.java">
+    <entry file="file://$PROJECT_DIR$/src/week6/FixDebugEight3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/week6/DebugEight4.java">
+    <entry file="file://$PROJECT_DIR$/src/week6/FixDebugEight4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
@@ -934,10 +946,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/week6/FixDebugEight1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/week6/DistanceFromAverage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="22" column="59" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+        <state relative-caret-position="445">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week6/CarCareChoice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="30" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week6/CarCareChoice2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week6/ArrayMethodDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
         </state>
       </provider>
     </entry>
