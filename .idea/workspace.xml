@@ -2,28 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbcfcb97-f5c7-4045-9175-73bdf5190017" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week7/Candle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week7/DemoCandles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week7/DemoHorses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week7/DemoItemsAndPets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week7/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week7/ItemSold.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week7/PetSold.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week7/RaceHorse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week7/ScentedCandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/Couplet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/DemoPoems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/Haiku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/Limerick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/Poem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week7/DebugBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7/DebugBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week7/DebugCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7/DebugCustomer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week7/DebugCustomerMakingPurchase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7/DebugCustomerMakingPurchase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week7/DebugExtendedVacation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7/DebugExtendedVacation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week7/DebugMusical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7/DebugMusical.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week7/DebugPhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7/DebugPhoneBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week7/DebugPlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7/DebugPlay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week7/DebugTen1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7/DebugTen1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week7/DebugTen2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7/DebugTen2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week7/DebugTen3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7/DebugTen3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week7/DebugTen4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7/DebugTen4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week7/DebugVacation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7/DebugVacation.java" afterDir="false" />
     </list>
     <list id="b6640476-fc09-497e-a23e-d47fafc0eb54" name="set secrete member field with a randon number between min and max" comment="set secrete member field with a randon number between min and max" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -67,7 +51,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/week7/PetSold.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
+            <state relative-caret-position="458">
               <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
               <folding>
                 <element signature="e#152#153#0" expanded="true" />
@@ -87,11 +71,65 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/week7/DemoItemsAndPets.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/week7/Poem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" selection-start-line="9" selection-end-line="10" />
+              <folding>
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/week7/Couplet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#192#193#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/week7/Limerick.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <folding>
+                <element signature="e#108#109#0" expanded="true" />
+                <element signature="e#153#154#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/week7/Haiku.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+              <folding>
+                <element signature="e#102#103#0" expanded="true" />
+                <element signature="e#147#148#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/week7/DemoPoems.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" column="36" selection-start-line="9" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -113,11 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/week5/DebugSix4.java" />
-        <option value="$PROJECT_DIR$/src/week5/CountByThree.java" />
-        <option value="$PROJECT_DIR$/src/week5/CountByAnything.java" />
-        <option value="$PROJECT_DIR$/src/week5/EvenEntryLoop.java" />
-        <option value="$PROJECT_DIR$/src/week5/Factorials.java" />
         <option value="$PROJECT_DIR$/src/week5/Inbetween.java" />
         <option value="$PROJECT_DIR$/src/week5/Perfect.java" />
         <option value="$PROJECT_DIR$/src/week5/DiagonalOs.java" />
@@ -164,14 +197,18 @@
         <option value="$PROJECT_DIR$/src/week7/ItemSold.java" />
         <option value="$PROJECT_DIR$/src/week7/PetSold.java" />
         <option value="$PROJECT_DIR$/src/week7/DemoItemsAndPets.java" />
+        <option value="$PROJECT_DIR$/src/week7/Poem.java" />
+        <option value="$PROJECT_DIR$/src/week7/Haiku.java" />
+        <option value="$PROJECT_DIR$/src/week7/Limerick.java" />
+        <option value="$PROJECT_DIR$/src/week7/Couplet.java" />
+        <option value="$PROJECT_DIR$/src/week7/DemoPoems.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -250,7 +287,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DemoItemsAndPets">
+  <component name="RunManager" selected="Application.DemoPoems">
     <configuration name="DebugTen1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week7.DebugTen1" />
       <module name="CP2406_Practicals" />
@@ -303,12 +340,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FixDebugSeven2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week6.FixDebugSeven2" />
+    <configuration name="DemoPoems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week7.DemoPoems" />
       <module name="CP2406_Practicals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week6.*" />
+          <option name="PATTERN" value="week7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,19 +354,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FixDebugSeven2" />
       <item itemvalue="Application.DebugTen1" />
       <item itemvalue="Application.DemoHorses" />
       <item itemvalue="Application.DemoCandles" />
       <item itemvalue="Application.DemoItemsAndPets" />
+      <item itemvalue="Application.DemoPoems" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoPoems" />
         <item itemvalue="Application.DemoItemsAndPets" />
         <item itemvalue="Application.DemoCandles" />
         <item itemvalue="Application.DemoHorses" />
         <item itemvalue="Application.DebugTen1" />
-        <item itemvalue="Application.FixDebugSeven2" />
       </list>
     </recent_temporary>
   </component>
@@ -369,7 +406,7 @@
       <workItem from="1568192381564" duration="50000" />
       <workItem from="1568197746316" duration="2092000" />
       <workItem from="1568357768201" duration="479000" />
-      <workItem from="1568606739875" duration="13807000" />
+      <workItem from="1568606739875" duration="16474000" />
     </task>
     <task id="LOCAL-00001" summary="Amended gitignore">
       <created>1565666906861</created>
@@ -518,7 +555,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568357937700</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Initial commit">
+      <created>1568644524260</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1568644524260</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -533,7 +577,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130131000" />
+    <option name="totallyTimeSpent" value="132798000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -545,20 +589,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" weight="0.5852982" />
-      <window_info id="Structure" order="1" sideWeight="0.50141644" side_tool="true" weight="0.17449665" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.50141644" side_tool="true" weight="0.17449665" />
-      <window_info id="Repositories" order="7" weight="0.32963988" />
+      <window_info id="Structure" order="0" sideWeight="0.50141644" side_tool="true" weight="0.17449665" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.50141644" side_tool="true" weight="0.17449665" />
+      <window_info id="Repositories" order="6" weight="0.32963988" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.49858356" weight="0.95839113" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.194051" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.194051" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -685,41 +729,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/week5/DebugSix3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week5/DebugSix4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-80">
-          <caret line="14" selection-start-line="14" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week5/FixDebugFive1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week5/FixDebugFive2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week5/FixDebugFive3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/week5/FixDebugFive4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -1093,9 +1102,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/week7/DemoItemsAndPets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/week7/PetSold.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
+        <state relative-caret-position="458">
           <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
           <folding>
             <element signature="e#152#153#0" expanded="true" />
@@ -1114,10 +1130,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/week7/DemoItemsAndPets.java">
+    <entry file="file://$PROJECT_DIR$/src/week7/Haiku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week7/Limerick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week7/Couplet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week7/Poem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" selection-start-line="9" selection-end-line="10" />
+          <folding>
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week7/DemoPoems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="36" selection-start-line="9" selection-end-line="10" />
         </state>
       </provider>
     </entry>
