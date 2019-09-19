@@ -1,9 +1,9 @@
 package week8;// Creates and displays an array of boats -
 // some are rowboats; some are ocean liners
 import javax.swing.*;
-public class DebugEleven4
+public class FixDebugEleven4
 {
-   static DebugBoat[] boatArray = new DebugBoat[5];
+   static FixDebugBoat[] boatArray = new FixDebugBoat[5];
    public static void main(String[] args) 
    {
       buildArray();
@@ -17,9 +17,9 @@ public class DebugEleven4
      {
         boatType = getBoat();
         if(boatType =='r')
- 	     boatArray[x] = new DebugRowboat();
+ 	     boatArray[x] = new FixDebugRowboat();
         else
-          boatArray[x] =new  DebugOceanLiner();
+          boatArray[x] =new FixDebugOceanLiner();
      }
    }
    public static char getBoat()

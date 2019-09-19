@@ -1,10 +1,10 @@
 package week7;
 
-public class DebugMusical extends DebugPlay
+public class FixDebugMusical extends FixDebugPlay
 {
    protected String composer;
    
-   DebugMusical(String title, String author, String comp)
+   FixDebugMusical(String title, String author, String comp)
    {
       super(title, author);
       composer = comp;

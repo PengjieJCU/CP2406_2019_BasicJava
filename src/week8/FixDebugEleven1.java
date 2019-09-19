@@ -2,11 +2,11 @@ package week8;
 
 // Instantiates Rowboat
 // Rowboat is child of Boat
-public class DebugEleven1
+public class FixDebugEleven1
 {
    public static void main(String[] args)
    {
-      DebugRowboat myBoat = new DebugRowboat();
+      FixDebugRowboat myBoat = new FixDebugRowboat();
       System.out.println(myBoat.toString());
    }
 }

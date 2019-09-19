@@ -1,10 +1,8 @@
 package week8;
 
-import week8.DebugBoat;
-
-public class DebugRowboat extends DebugBoat
+public class FixDebugRowboat extends FixDebugBoat
 {
-   public DebugRowboat()
+   public FixDebugRowboat()
    {
       super("row");
    }

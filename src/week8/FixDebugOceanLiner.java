@@ -1,11 +1,10 @@
 package week8;
 
-public abstract class DebugOceanLiner extends DebugBoat
+public class FixDebugOceanLiner extends FixDebugBoat
 {
-   public DebugOceanLiner()
+   public FixDebugOceanLiner()
    {
-      super();
-      Debug("ocean liner ");
+      super("ocean liner");
       setPassengers();
       setPower();
    }
@@ -13,7 +12,7 @@ public abstract class DebugOceanLiner extends DebugBoat
    {
       super.passengers = 2400;
    }
-   public void power()
+   public void setPower()
    {
       super.power = "" +
               "four engines";

@@ -2,10 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbcfcb97-f5c7-4045-9175-73bdf5190017" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week7/InsuredPackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week7/Package.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week7/UsePackage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week7/DebugBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7/FixDebugBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week7/DebugCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7/FixDebugCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week7/DebugCustomerMakingPurchase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7/FixDebugCustomerMakingPurchase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week7/DebugExtendedVacation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7/FixDebugExtendedVacation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week7/DebugMusical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7/FixDebugMusical.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week7/DebugPhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7/FixDebugPhoneBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week7/DebugPlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7/FixDebugPlay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week7/DebugTen1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7/FixDebugTen1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week7/DebugTen2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7/FixDebugTen2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week7/DebugTen3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7/FixDebugTen3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week7/DebugTen4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7/FixDebugTen4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week7/DebugVacation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7/FixDebugVacation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week8/DebugBoat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week8/FixDebugBoat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week8/DebugEleven1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week8/FixDebugEleven1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week8/DebugEleven2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week8/FixDebugEleven2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week8/DebugEleven3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week8/FixDebugEleven3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week8/DebugEleven4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week8/FixDebugEleven4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week8/DebugOceanLiner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week8/FixDebugOceanLiner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week8/DebugRowboat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week8/FixDebugRowboat.java" afterDir="false" />
     </list>
     <list id="b6640476-fc09-497e-a23e-d47fafc0eb54" name="set secrete member field with a randon number between min and max" comment="set secrete member field with a randon number between min and max" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,77 +38,7 @@
     <favorites_list name="CP2406_2019_BasicJava" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/week7/SugarSmashPlayer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
-              <folding>
-                <element signature="e#251#252#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#334#335#0" expanded="true" />
-                <element signature="e#364#365#0" expanded="true" />
-                <element signature="e#409#410#0" expanded="true" />
-                <element signature="e#444#445#0" expanded="true" />
-                <element signature="e#935#936#0" expanded="true" />
-                <element signature="e#966#967#0" expanded="true" />
-                <element signature="e#1000#1001#0" expanded="true" />
-                <element signature="e#1033#1034#0" expanded="true" />
-                <element signature="e#1296#1297#0" expanded="true" />
-                <element signature="e#1322#1323#0" expanded="true" />
-                <element signature="e#1384#1385#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/week7/PreminumSugarSmashPlayer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="62" lean-forward="true" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
-              <folding>
-                <element signature="e#195#196#0" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#373#374#0" expanded="true" />
-                <element signature="e#402#403#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/week7/DemoSugarSmash.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="35" column="41" lean-forward="true" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/week7/InsuredPackage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="51" lean-forward="true" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/week7/UsePackage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -109,7 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/week6/CountMovieSpaces.java" />
         <option value="$PROJECT_DIR$/src/week6/CountMovieSpaces2.java" />
         <option value="$PROJECT_DIR$/src/week6/ValidatePassword.java" />
         <option value="$PROJECT_DIR$/src/week6/DebugEight1.java" />
@@ -147,23 +92,24 @@
         <option value="$PROJECT_DIR$/src/week7/Limerick.java" />
         <option value="$PROJECT_DIR$/src/week7/DemoPoems.java" />
         <option value="$PROJECT_DIR$/src/week7/Couplet.java" />
-        <option value="$PROJECT_DIR$/src/week8/DebugRowboat.java" />
         <option value="$PROJECT_DIR$/src/week8/DebugEleven1.java" />
-        <option value="$PROJECT_DIR$/src/week8/DebugEleven2.java" />
-        <option value="$PROJECT_DIR$/src/week8/DebugEleven3.java" />
         <option value="$PROJECT_DIR$/src/week8/DebugEleven4.java" />
         <option value="$PROJECT_DIR$/src/week8/DebugBoat.java" />
-        <option value="$PROJECT_DIR$/src/week8/DebugOceanLiner.java" />
         <option value="$PROJECT_DIR$/src/week7/SugarSmashPlayer.java" />
         <option value="$PROJECT_DIR$/src/week7/PreminumSugarSmashPlayer.java" />
         <option value="$PROJECT_DIR$/src/week7/DemoSugarSmash.java" />
         <option value="$PROJECT_DIR$/src/week7/Package.java" />
         <option value="$PROJECT_DIR$/src/week7/InsuredPackage.java" />
         <option value="$PROJECT_DIR$/src/week7/UsePackage.java" />
+        <option value="$PROJECT_DIR$/src/week8/DebugOceanLiner.java" />
+        <option value="$PROJECT_DIR$/src/week8/DebugEleven2.java" />
+        <option value="$PROJECT_DIR$/src/week8/DebugEleven3.java" />
+        <option value="$PROJECT_DIR$/src/week8/DebugRowboat.java" />
+        <option value="$PROJECT_DIR$/src/week8/FixDebugRowboat.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="952" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
@@ -176,6 +122,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -205,7 +152,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -251,33 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DemoSugarSmash">
-    <configuration name="DemoCandles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week7.DemoCandles" />
-      <module name="CP2406_Practicals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoHorses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week7.DemoHorses" />
-      <module name="CP2406_Practicals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.FixDebugEleven4">
     <configuration name="DemoItemsAndPets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week7.DemoItemsAndPets" />
       <module name="CP2406_Practicals" />
@@ -317,20 +237,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FixDebugEleven2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week8.FixDebugEleven2" />
+      <module name="CP2406_Practicals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FixDebugEleven4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week8.FixDebugEleven4" />
+      <module name="CP2406_Practicals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.DemoHorses" />
-      <item itemvalue="Application.DemoCandles" />
       <item itemvalue="Application.DemoItemsAndPets" />
       <item itemvalue="Application.DemoPoems" />
       <item itemvalue="Application.DemoSugarSmash" />
+      <item itemvalue="Application.FixDebugEleven2" />
+      <item itemvalue="Application.FixDebugEleven4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FixDebugEleven4" />
+        <item itemvalue="Application.FixDebugEleven2" />
         <item itemvalue="Application.DemoSugarSmash" />
         <item itemvalue="Application.DemoPoems" />
         <item itemvalue="Application.DemoItemsAndPets" />
-        <item itemvalue="Application.DemoCandles" />
-        <item itemvalue="Application.DemoHorses" />
       </list>
     </recent_temporary>
   </component>
@@ -370,7 +316,8 @@
       <workItem from="1568192381564" duration="50000" />
       <workItem from="1568197746316" duration="2092000" />
       <workItem from="1568357768201" duration="479000" />
-      <workItem from="1568606739875" duration="23702000" />
+      <workItem from="1568606739875" duration="23753000" />
+      <workItem from="1568854759544" duration="1020000" />
     </task>
     <task id="LOCAL-00001" summary="Amended gitignore">
       <created>1565666906861</created>
@@ -540,7 +487,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568697537906</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Initial commit">
+      <created>1568700117678</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1568700117678</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -555,7 +509,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140026000" />
+    <option name="totallyTimeSpent" value="141097000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -567,8 +521,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.50141644" side_tool="true" weight="0.17449665" />
       <window_info id="Image Layers" order="1" />
@@ -577,10 +530,10 @@
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" sideWeight="0.50141644" side_tool="true" weight="0.17449665" />
       <window_info id="Repositories" order="6" weight="0.32963988" />
-      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.49858356" weight="0.5325936" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.49858356" weight="0.2865772" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.19627507" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.194051" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -794,21 +747,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/week7/DebugTen2.java">
+    <entry file="file://$PROJECT_DIR$/src/week7/FixDebugTen2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="50" lean-forward="true" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/week7/DebugCustomer.java">
+    <entry file="file://$PROJECT_DIR$/src/week7/FixDebugCustomer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/week7/DebugCustomerMakingPurchase.java">
+    <entry file="file://$PROJECT_DIR$/src/week7/FixDebugCustomerMakingPurchase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
@@ -819,7 +772,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/week7/DebugTen3.java">
+    <entry file="file://$PROJECT_DIR$/src/week7/FixDebugTen3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
@@ -829,21 +782,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/week7/DebugTen4.java">
+    <entry file="file://$PROJECT_DIR$/src/week7/FixDebugTen4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/week7/DebugPhoneBook.java">
+    <entry file="file://$PROJECT_DIR$/src/week7/FixDebugPhoneBook.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/week7/DebugBook.java">
+    <entry file="file://$PROJECT_DIR$/src/week7/FixDebugBook.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
@@ -854,21 +807,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/week7/DebugPlay.java">
+    <entry file="file://$PROJECT_DIR$/src/week7/FixDebugPlay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/week7/DebugMusical.java">
+    <entry file="file://$PROJECT_DIR$/src/week7/FixDebugMusical.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/week7/DebugExtendedVacation.java">
+    <entry file="file://$PROJECT_DIR$/src/week7/FixDebugExtendedVacation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
@@ -879,7 +832,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/week7/DebugVacation.java">
+    <entry file="file://$PROJECT_DIR$/src/week7/FixDebugVacation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
@@ -924,7 +877,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/week7/DebugTen1.java">
+    <entry file="file://$PROJECT_DIR$/src/week7/FixDebugTen1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
@@ -1070,97 +1023,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/week8/DebugEleven1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week8/DebugEleven2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week8/DebugBoat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week8/DebugEleven3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week8/DebugOceanLiner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week8/DebugRowboat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week7/PreminumSugarSmashPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="62" lean-forward="true" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
-          <folding>
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week7/SugarSmashPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
-          <folding>
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#935#936#0" expanded="true" />
-            <element signature="e#966#967#0" expanded="true" />
-            <element signature="e#1000#1001#0" expanded="true" />
-            <element signature="e#1033#1034#0" expanded="true" />
-            <element signature="e#1296#1297#0" expanded="true" />
-            <element signature="e#1322#1323#0" expanded="true" />
-            <element signature="e#1384#1385#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week8/DebugEleven4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week7/DemoSugarSmash.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="35" column="41" lean-forward="true" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/week7/Package.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="402">
@@ -1179,20 +1041,109 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/week7/PreminumSugarSmashPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="62" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week7/DemoSugarSmash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/week7/UsePackage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/week7/InsuredPackage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
-          <caret line="7" column="51" lean-forward="true" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week7/SugarSmashPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+          <folding>
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#935#936#0" expanded="true" />
+            <element signature="e#966#967#0" expanded="true" />
+            <element signature="e#1000#1001#0" expanded="true" />
+            <element signature="e#1033#1034#0" expanded="true" />
+            <element signature="e#1296#1297#0" expanded="true" />
+            <element signature="e#1322#1323#0" expanded="true" />
+            <element signature="e#1384#1385#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week8/FixDebugBoat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week8/FixDebugRowboat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week8/FixDebugEleven1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week8/FixDebugEleven2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week8/FixDebugEleven3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week8/FixDebugEleven4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week8/FixDebugOceanLiner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
         </state>
       </provider>
     </entry>

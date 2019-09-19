@@ -1,10 +1,10 @@
 package week7;
 
-public class DebugBook
+public class FixDebugBook
 {
    protected int pages;
 
-   public DebugBook(int pas) {
+   public FixDebugBook(int pas) {
       pages = pas;
    }
 

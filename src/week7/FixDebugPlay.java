@@ -1,11 +1,11 @@
 package week7;
 
-public class DebugPlay
+public class FixDebugPlay
 {
    protected String title;
    protected String author;
 
-   public DebugPlay(String title, String author)
+   public FixDebugPlay(String title, String author)
    {
       title = title;
       author = author;

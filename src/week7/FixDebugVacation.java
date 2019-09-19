@@ -1,9 +1,9 @@
 package week7;
 
-public class DebugVacation
+public class FixDebugVacation
 {
    public int days;
-   public DebugVacation()
+   public FixDebugVacation()
    {
       days = 10;
    }
