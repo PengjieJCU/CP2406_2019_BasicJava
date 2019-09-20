@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbcfcb97-f5c7-4045-9175-73bdf5190017" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/week8/DemoPhoneCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week8/IncomingPhoneCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week8/OutgoingPhoneCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week8/PhoneCall.java" afterDir="false" />
+    <list default="true" id="bbcfcb97-f5c7-4045-9175-73bdf5190017" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/week8/DemoSubscription.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week8/NewspaperSubscription.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week8/OnlineNewspaperSubscription.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week8/PhysicalNewspaperSubscription.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b6640476-fc09-497e-a23e-d47fafc0eb54" name="set secrete member field with a randon number between min and max" comment="set secrete member field with a randon number between min and max" />
@@ -25,62 +25,49 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/week8/PhoneCall.java">
+        <entry file="file://$PROJECT_DIR$/src/week8/NewspaperSubscription.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="15" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="15" />
+            <state relative-caret-position="500">
+              <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
               <folding>
-                <element signature="e#235#236#0" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#300#301#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+                <element signature="e#380#381#0" expanded="true" />
+                <element signature="e#416#417#0" expanded="true" />
+                <element signature="e#542#543#0" expanded="true" />
+                <element signature="e#569#570#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/week8/IncomingPhoneCall.java">
+        <entry file="file://$PROJECT_DIR$/src/week8/PhysicalNewspaperSubscription.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="19" column="139" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="139" />
-              <folding>
-                <element signature="e#116#117#0" expanded="true" />
-                <element signature="e#143#144#0" expanded="true" />
-                <element signature="e#193#194#0" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="315">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/week8/Fiction.java">
+        <entry file="file://$PROJECT_DIR$/src/week8/OnlineNewspaperSubscription.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/week8/OutgoingPhoneCall.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="23" column="108" selection-start-line="23" selection-start-column="108" selection-end-line="23" selection-end-column="108" />
-              <folding>
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#278#279#0" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="252">
+              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/week8/DemoPhoneCall.java">
+        <entry file="file://$PROJECT_DIR$/src/week8/DemoSubscription.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="105">
+              <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -102,10 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/week6/CarCareChoice2.java" />
-        <option value="$PROJECT_DIR$/src/week6/ArrayMethodDemo.java" />
-        <option value="$PROJECT_DIR$/src/week7/DebugCustomer.java" />
-        <option value="$PROJECT_DIR$/src/week7/DebugCustomerMakingPurchase.java" />
         <option value="$PROJECT_DIR$/src/week7/DebugTen1.java" />
         <option value="$PROJECT_DIR$/src/week7/DebugTen2.java" />
         <option value="$PROJECT_DIR$/src/week7/DebugTen3.java" />
@@ -153,10 +136,14 @@
         <option value="$PROJECT_DIR$/src/week8/OutgoingPhoneCall.java" />
         <option value="$PROJECT_DIR$/src/week8/PhoneCall.java" />
         <option value="$PROJECT_DIR$/src/week8/DemoPhoneCall.java" />
+        <option value="$PROJECT_DIR$/src/week8/PhysicalNewspaperSubscription.java" />
+        <option value="$PROJECT_DIR$/src/week8/NewspaperSubscription.java" />
+        <option value="$PROJECT_DIR$/src/week8/OnlineNewspaperSubscription.java" />
+        <option value="$PROJECT_DIR$/src/week8/DemoSubscription.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="952" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
@@ -238,7 +225,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DemoPhoneCall">
+  <component name="RunManager" selected="Application.DemoSubscription">
     <configuration name="BookArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week8.BookArray" />
       <module name="CP2406_Practicals" />
@@ -265,8 +252,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FixDebugEleven2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week8.FixDebugEleven2" />
+    <configuration name="DemoSubscription" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week8.DemoSubscription" />
       <module name="CP2406_Practicals" />
       <extension name="coverage">
         <pattern>
@@ -305,19 +292,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FixDebugEleven2" />
       <item itemvalue="Application.FixDebugEleven4" />
       <item itemvalue="Application.UseBook" />
       <item itemvalue="Application.BookArray" />
       <item itemvalue="Application.DemoPhoneCall" />
+      <item itemvalue="Application.DemoSubscription" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoSubscription" />
         <item itemvalue="Application.DemoPhoneCall" />
         <item itemvalue="Application.BookArray" />
         <item itemvalue="Application.UseBook" />
         <item itemvalue="Application.FixDebugEleven4" />
-        <item itemvalue="Application.FixDebugEleven2" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +346,7 @@
       <workItem from="1568357768201" duration="479000" />
       <workItem from="1568606739875" duration="23753000" />
       <workItem from="1568854759544" duration="3602000" />
-      <workItem from="1568948968788" duration="5822000" />
+      <workItem from="1568948968788" duration="7367000" />
     </task>
     <task id="LOCAL-00001" summary="Amended gitignore">
       <created>1565666906861</created>
@@ -550,7 +537,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568952929627</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Initial commit">
+      <created>1568958508492</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1568958508492</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -565,7 +559,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149501000" />
+    <option name="totallyTimeSpent" value="151046000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -577,7 +571,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" weight="0.28987518" />
@@ -590,7 +584,7 @@
       <window_info id="Repositories" order="7" weight="0.32963988" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30802292" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30736545" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -684,34 +678,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/week6/FixDebugSeven4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week6/FixDebugSeven3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week6/FixDebugSeven2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week7/FixDebugTen2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="50" lean-forward="true" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/week7/FixDebugCustomer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1185,6 +1151,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week8/OnlineNewspaperSubscription.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week8/PhysicalNewspaperSubscription.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week8/NewspaperSubscription.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <folding>
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week8/DemoSubscription.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
         </state>
       </provider>
     </entry>
