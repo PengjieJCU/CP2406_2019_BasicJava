@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbcfcb97-f5c7-4045-9175-73bdf5190017" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="bbcfcb97-f5c7-4045-9175-73bdf5190017" name="Default Changelist" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/src/week9/JBookQuote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9/JBookQuote2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9/JFrameDisableButton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b6640476-fc09-497e-a23e-d47fafc0eb54" name="set secrete member field with a randon number between min and max" comment="set secrete member field with a randon number between min and max" />
@@ -21,44 +23,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/week9/JBookQuote.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="30" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#884#885#0" expanded="true" />
+                <element signature="e#918#919#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/week9/JBookQuote2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="710">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1305#1306#0" expanded="true" />
+                <element signature="e#1342#1343#0" expanded="true" />
+                <element signature="e#1031#1032#0" expanded="true" />
+                <element signature="e#1065#1066#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/week9/DebugThirteen1.java">
+        <entry file="file://$PROJECT_DIR$/src/week9/JFrameDisableButton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="11" column="18" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="102" />
+            <state relative-caret-position="423">
+              <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1138#1139#0" expanded="true" />
+                <element signature="e#1172#1173#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/week9/DebugThirteen2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="588">
-              <caret line="30" column="10" lean-forward="true" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/week9/DebugThirteen3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-135">
-              <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/week9/DebugThirteen4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -80,9 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/week7/Poem.java" />
-        <option value="$PROJECT_DIR$/src/week7/Haiku.java" />
-        <option value="$PROJECT_DIR$/src/week7/Limerick.java" />
         <option value="$PROJECT_DIR$/src/week7/DemoPoems.java" />
         <option value="$PROJECT_DIR$/src/week7/Couplet.java" />
         <option value="$PROJECT_DIR$/src/week8/DebugEleven1.java" />
@@ -131,6 +132,9 @@
         <option value="$PROJECT_DIR$/src/week9/DebugThirteen2.java" />
         <option value="$PROJECT_DIR$/src/week9/DebugThirteen3.java" />
         <option value="$PROJECT_DIR$/src/week9/DebugThirteen4.java" />
+        <option value="$PROJECT_DIR$/src/week9/JBookQuote.java" />
+        <option value="$PROJECT_DIR$/src/week9/JBookQuote2.java" />
+        <option value="$PROJECT_DIR$/src/week9/JFrameDisableButton.java" />
       </list>
     </option>
   </component>
@@ -193,15 +197,15 @@
       <recent name="week4" />
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\pengj\IdeaProjects\CP2406_2019_BasicJava\.idea" />
-      <recent name="C:\Users\pengj\IdeaProjects\CP2406_2019_BasicJava\src" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="week7" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="week7" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pengj\IdeaProjects\CP2406_2019_BasicJava\.idea" />
+      <recent name="C:\Users\pengj\IdeaProjects\CP2406_2019_BasicJava\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -216,7 +220,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DebugThirteen2">
+  <component name="RunManager" selected="Application.JFrameDisableButton">
     <configuration name="DebugThirteen1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week9.DebugThirteen1" />
       <module name="CP2406_Practicals" />
@@ -243,8 +247,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DebugTwelve2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week9.DebugTwelve2" />
+    <configuration name="JBookQuote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week9.JBookQuote" />
       <module name="CP2406_Practicals" />
       <extension name="coverage">
         <pattern>
@@ -256,8 +260,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DebugTwelve3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week9.DebugTwelve3" />
+    <configuration name="JBookQuote2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week9.JBookQuote2" />
       <module name="CP2406_Practicals" />
       <extension name="coverage">
         <pattern>
@@ -269,8 +273,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DebugTwelve4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week9.DebugTwelve4" />
+    <configuration name="JFrameDisableButton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week9.JFrameDisableButton" />
       <module name="CP2406_Practicals" />
       <extension name="coverage">
         <pattern>
@@ -283,19 +287,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DebugTwelve2" />
-      <item itemvalue="Application.DebugTwelve3" />
-      <item itemvalue="Application.DebugTwelve4" />
       <item itemvalue="Application.DebugThirteen2" />
       <item itemvalue="Application.DebugThirteen1" />
+      <item itemvalue="Application.JBookQuote" />
+      <item itemvalue="Application.JBookQuote2" />
+      <item itemvalue="Application.JFrameDisableButton" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JFrameDisableButton" />
+        <item itemvalue="Application.JBookQuote2" />
+        <item itemvalue="Application.JBookQuote" />
         <item itemvalue="Application.DebugThirteen2" />
         <item itemvalue="Application.DebugThirteen1" />
-        <item itemvalue="Application.DebugTwelve4" />
-        <item itemvalue="Application.DebugTwelve3" />
-        <item itemvalue="Application.DebugTwelve2" />
       </list>
     </recent_temporary>
   </component>
@@ -340,7 +344,7 @@
       <workItem from="1568948968788" duration="9997000" />
       <workItem from="1569059601759" duration="6850000" />
       <workItem from="1569296546300" duration="3373000" />
-      <workItem from="1569471305833" duration="2897000" />
+      <workItem from="1569471305833" duration="5643000" />
     </task>
     <task id="LOCAL-00001" summary="Amended gitignore">
       <created>1565666906861</created>
@@ -559,7 +563,21 @@
       <option name="project" value="LOCAL" />
       <updated>1569065617817</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Initial commit">
+      <created>1569474648560</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1569474648560</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Initial commit">
+      <created>1569474671528</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1569474671528</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -574,7 +592,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166796000" />
+    <option name="totallyTimeSpent" value="169542000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -599,8 +617,8 @@
       <window_info id="Repositories" order="7" weight="0.32963988" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3051576" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3008596" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3982808" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32577905" />
@@ -610,6 +628,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.07020057" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.31805158" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3295302" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -725,39 +744,12 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CP2406_2019_BasicJava$JBookQuote.ic" NAME="JBookQuote Coverage Results" MODIFIED="1569478257784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>week9.*</FILTER>
+    </SUITE>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/week8/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week8/UseBook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week8/Fiction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week8/PhoneCall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="15" />
-          <folding>
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/week8/DemoPhoneCall.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1108,36 +1100,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/week9/DebugThirteen3.java">
+    <entry file="file://$PROJECT_DIR$/src/week9/DebugThirteen1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-135">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week9/DebugThirteen4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week9/DebugThirteen2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="30" column="10" lean-forward="true" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+        <state relative-caret-position="84">
+          <caret line="11" column="18" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="102" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/week9/DebugThirteen1.java">
+    <entry file="file://$PROJECT_DIR$/src/week9/DebugData3New.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="11" column="18" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="102" />
+        <state relative-caret-position="63">
+          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/DebugThirteen2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/DebugThirteen3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/DebugThirteen4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/JBookQuote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#884#885#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/JBookQuote2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="710">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1305#1306#0" expanded="true" />
+            <element signature="e#1342#1343#0" expanded="true" />
+            <element signature="e#1031#1032#0" expanded="true" />
+            <element signature="e#1065#1066#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/JFrameDisableButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1138#1139#0" expanded="true" />
+            <element signature="e#1172#1173#0" expanded="true" />
           </folding>
         </state>
       </provider>
