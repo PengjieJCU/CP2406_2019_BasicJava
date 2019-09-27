@@ -91,9 +91,9 @@ public class JVacationRental extends JFrame implements ItemListener {
             JtotalPrice.setText(showPrice);
         }else if (box == oneBedroom){
             if(select == ItemEvent.SELECTED){
-                totalPrice = totalPrice + 0;
+                totalPrice = totalPrice;
             }else if(select == ItemEvent.DESELECTED){
-                totalPrice = totalPrice - 0;
+                totalPrice = totalPrice;
             }
             String showPrice = "Total price is: $" + totalPrice;
             JtotalPrice.setText(showPrice);
@@ -116,7 +116,7 @@ public class JVacationRental extends JFrame implements ItemListener {
         }else if (box == includeMeals){
             if (select == ItemEvent.SELECTED){
                 totalPrice = totalPrice + 200;
-            }else if (select == ItemEvent.SELECTED){
+            }else if (select == ItemEvent.DESELECTED){
                 totalPrice = totalPrice - 200;
             }
             String showPrice = "Total price is: $" + totalPrice;
@@ -125,7 +125,7 @@ public class JVacationRental extends JFrame implements ItemListener {
             if (select == ItemEvent.SELECTED){
                 totalPrice = totalPrice - 200;
             }else if(select == ItemEvent.DESELECTED){
-                totalPrice = totalPrice - 0;
+                totalPrice = totalPrice;
             }
             String showPrice = "Total price is: $" + totalPrice;
             JtotalPrice.setText(showPrice);
