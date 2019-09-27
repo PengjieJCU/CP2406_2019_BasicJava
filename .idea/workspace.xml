@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbcfcb97-f5c7-4045-9175-73bdf5190017" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/week9/JFrameDisableButton2.java" afterDir="false" />
+    <list default="true" id="bbcfcb97-f5c7-4045-9175-73bdf5190017" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/week9/JVacationRental.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week9/JHistoricalFacts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week9/JHistoricalFacts.java" afterDir="false" />
     </list>
     <list id="b6640476-fc09-497e-a23e-d47fafc0eb54" name="set secrete member field with a randon number between min and max" comment="set secrete member field with a randon number between min and max" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -57,15 +58,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/week9/JFrameDisableButton2.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/week9/JHistoricalFacts.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+            <state relative-caret-position="210">
+              <caret line="21" column="55" lean-forward="true" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1050#1051#0" expanded="true" />
-                <element signature="e#1084#1085#0" expanded="true" />
+                <element signature="e#1704#1705#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/week9/JVacationRental.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="78" column="49" selection-start-line="78" selection-start-column="49" selection-end-line="78" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#5027#5028#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -88,8 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/week7/Couplet.java" />
-        <option value="$PROJECT_DIR$/src/week8/DebugEleven1.java" />
         <option value="$PROJECT_DIR$/src/week8/DebugEleven4.java" />
         <option value="$PROJECT_DIR$/src/week8/DebugBoat.java" />
         <option value="$PROJECT_DIR$/src/week7/SugarSmashPlayer.java" />
@@ -139,6 +150,8 @@
         <option value="$PROJECT_DIR$/src/week9/JBookQuote2.java" />
         <option value="$PROJECT_DIR$/src/week9/JFrameDisableButton.java" />
         <option value="$PROJECT_DIR$/src/week9/JFrameDisableButton2.java" />
+        <option value="$PROJECT_DIR$/src/week9/JHistoricalFacts.java" />
+        <option value="$PROJECT_DIR$/src/week9/JVacationRental.java" />
       </list>
     </option>
   </component>
@@ -227,33 +240,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JFrameDisableButton2">
-    <configuration name="DebugThirteen2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week9.DebugThirteen2" />
-      <module name="CP2406_Practicals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JBookQuote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week9.JBookQuote" />
-      <module name="CP2406_Practicals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.JVacationRental">
     <configuration name="JBookQuote2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week9.JBookQuote2" />
       <module name="CP2406_Practicals" />
@@ -293,20 +280,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JHistoricalFacts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week9.JHistoricalFacts" />
+      <module name="CP2406_Practicals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JVacationRental" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week9.JVacationRental" />
+      <module name="CP2406_Practicals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.DebugThirteen2" />
-      <item itemvalue="Application.JBookQuote" />
       <item itemvalue="Application.JBookQuote2" />
       <item itemvalue="Application.JFrameDisableButton" />
       <item itemvalue="Application.JFrameDisableButton2" />
+      <item itemvalue="Application.JHistoricalFacts" />
+      <item itemvalue="Application.JVacationRental" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JVacationRental" />
+        <item itemvalue="Application.JHistoricalFacts" />
         <item itemvalue="Application.JFrameDisableButton2" />
         <item itemvalue="Application.JFrameDisableButton" />
         <item itemvalue="Application.JBookQuote2" />
-        <item itemvalue="Application.JBookQuote" />
-        <item itemvalue="Application.DebugThirteen2" />
       </list>
     </recent_temporary>
   </component>
@@ -352,7 +365,7 @@
       <workItem from="1569059601759" duration="6850000" />
       <workItem from="1569296546300" duration="3373000" />
       <workItem from="1569471305833" duration="7218000" />
-      <workItem from="1569557784141" duration="2201000" />
+      <workItem from="1569557784141" duration="10079000" />
     </task>
     <task id="LOCAL-00001" summary="Amended gitignore">
       <created>1565666906861</created>
@@ -592,7 +605,21 @@
       <option name="project" value="LOCAL" />
       <updated>1569479702457</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Initial commit">
+      <created>1569560010745</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1569560010745</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Initial commit">
+      <created>1569561742604</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1569561742604</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -607,7 +634,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="173318000" />
+    <option name="totallyTimeSpent" value="181196000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -765,20 +792,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/week8/PhysicalNewspaperSubscription.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week8/DemoSubscription.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/week8/UseDivison.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -1181,12 +1194,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/week9/JFrameDisableButton2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        <state relative-caret-position="63">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1050#1051#0" expanded="true" />
             <element signature="e#1084#1085#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/JHistoricalFacts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="21" column="55" lean-forward="true" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1704#1705#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/JVacationRental.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="78" column="49" selection-start-line="78" selection-start-column="49" selection-end-line="78" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5027#5028#0" expanded="true" />
           </folding>
         </state>
       </provider>

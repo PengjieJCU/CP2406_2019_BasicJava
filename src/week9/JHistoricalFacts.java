@@ -8,7 +8,7 @@ import java.awt.event.ActionListener;
 public class JHistoricalFacts extends JFrame implements ActionListener {
     int click = 0;
 
-    JFrame jFrame = new JFrame("Qustion 3");
+
     FlowLayout flowLayout = new FlowLayout();
     JButton jButton = new JButton("Press me to change next fact!");
     JLabel jLabel = new JLabel("Turkeys Were Once Worshipped Like Gods.");
@@ -18,6 +18,7 @@ public class JHistoricalFacts extends JFrame implements ActionListener {
     JLabel jLabel4 = new JLabel("Napoleon Was Once Attacked By a Horde of Bunnies.");
 
     public JHistoricalFacts(){
+        setTitle("Question 3");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(flowLayout);
         setSize(600,500);
