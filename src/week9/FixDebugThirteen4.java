@@ -5,7 +5,7 @@ import java.nio.file.*;
 import java.io.*;
 import static java.nio.file.AccessMode.*;
 import java.util.Scanner;
-public class DebugThirteen4
+public class FixDebugThirteen4
 {
    public static void main(String[] args)
    {

@@ -1,7 +1,7 @@
 package week9;
 
 // This class determines the logarithm of a number
-public class DebugTwelve1
+public class FixDebugTwelve1
 {
   public static void main(String[] args) throws ArithmeticException
   {

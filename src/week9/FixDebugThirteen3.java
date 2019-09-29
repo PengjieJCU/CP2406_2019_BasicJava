@@ -3,7 +3,7 @@ import java.nio.file.*;
 import java.io.*;
 import static java.nio.file.AccessMode.*;
 import java.util.Scanner;
-public class DebugThirteen3
+public class FixDebugThirteen3
 {
    public static void main(String[] args)
    {

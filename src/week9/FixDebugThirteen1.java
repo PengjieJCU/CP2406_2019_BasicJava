@@ -3,7 +3,7 @@ package week9;// Program describes two files
 import java.nio.file.*;
 import java.nio.file.attribute.*;
 import java.io.IOException;
-public class DebugThirteen1
+public class FixDebugThirteen1
 {
    public static void main(String[] args)
    {

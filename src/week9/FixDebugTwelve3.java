@@ -1,7 +1,7 @@
 package week9;// Catch exceptions for array index out of bounds
 // or dividing by 0 
 import javax.swing.*;
-public class DebugTwelve3
+public class FixDebugTwelve3
 {
    public static void main(String[] args) 
    {

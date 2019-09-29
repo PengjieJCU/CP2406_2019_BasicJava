@@ -2,7 +2,7 @@ package week9;// An employee ID can't be more than 999
 // Keep executing until user enters four valid employee IDs
 // This program throws a FixDebugEmployeeIDException
 import javax.swing.*;
-public class DebugTwelve4
+public class FixDebugTwelve4
 {
    public static void main(String[] args)
    {
@@ -17,7 +17,7 @@ public class DebugTwelve4
             emp[x] = Integer.parseInt(inStr);
             if(emp[x] > MAX)
             {
-               throw(new DebugEmployeeIDException("Number too high " + emp[x]));
+               throw(new FixDebugEmployeeIDException("Number too high " + emp[x]));
             }
          }
          catch(NumberFormatException error)
@@ -25,7 +25,7 @@ public class DebugTwelve4
             --x;
             JOptionPane.showMessageDialog(null, inStr + "\nNonnumeric ID");
          }
-         catch(DebugEmployeeIDException error)
+         catch(FixDebugEmployeeIDException error)
          {	
 	        --x;
             JOptionPane.showMessageDialog(null, error.toString() + "\nID is too large");

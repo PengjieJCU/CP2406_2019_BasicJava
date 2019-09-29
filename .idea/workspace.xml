@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbcfcb97-f5c7-4045-9175-73bdf5190017" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week9/JPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9/JCapital.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b6640476-fc09-497e-a23e-d47fafc0eb54" name="set secrete member field with a randon number between min and max" comment="set secrete member field with a randon number between min and max" />
@@ -34,16 +34,31 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/week9/JPizza.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="59" column="19" lean-forward="true" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
+            <state relative-caret-position="256">
+              <caret line="60" column="30" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#506#514#0" expanded="true" />
                 <element signature="e#397#405#0" expanded="true" />
                 <element signature="e#2314#2315#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/week9/JCapital.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="47" column="41" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#389#397#0" expanded="true" />
+                <element signature="e#1570#1571#0" expanded="true" />
+                <element signature="e#1599#1600#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -66,7 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/week8/DebugBoat.java" />
         <option value="$PROJECT_DIR$/src/week7/SugarSmashPlayer.java" />
         <option value="$PROJECT_DIR$/src/week7/PreminumSugarSmashPlayer.java" />
         <option value="$PROJECT_DIR$/src/week7/DemoSugarSmash.java" />
@@ -117,11 +131,13 @@
         <option value="$PROJECT_DIR$/src/week9/JHistoricalFacts.java" />
         <option value="$PROJECT_DIR$/src/week9/JVacationRental.java" />
         <option value="$PROJECT_DIR$/src/week9/JPizza.java" />
+        <option value="$PROJECT_DIR$/src/week9/JCapital.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
   </component>
@@ -205,9 +221,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JPizza">
-    <configuration name="JFrameDisableButton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week9.JFrameDisableButton" />
+  <component name="RunManager" selected="Application.FixDebugThirteen1">
+    <configuration name="FixDebugThirteen1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week9.FixDebugThirteen1" />
       <module name="CP2406_Practicals" />
       <extension name="coverage">
         <pattern>
@@ -219,8 +235,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JFrameDisableButton2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week9.JFrameDisableButton2" />
+    <configuration name="JCapital" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week9.JCapital" />
       <module name="CP2406_Practicals" />
       <extension name="coverage">
         <pattern>
@@ -272,19 +288,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.JFrameDisableButton" />
-      <item itemvalue="Application.JFrameDisableButton2" />
       <item itemvalue="Application.JHistoricalFacts" />
       <item itemvalue="Application.JVacationRental" />
       <item itemvalue="Application.JPizza" />
+      <item itemvalue="Application.JCapital" />
+      <item itemvalue="Application.FixDebugThirteen1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FixDebugThirteen1" />
+        <item itemvalue="Application.JCapital" />
         <item itemvalue="Application.JPizza" />
         <item itemvalue="Application.JVacationRental" />
         <item itemvalue="Application.JHistoricalFacts" />
-        <item itemvalue="Application.JFrameDisableButton2" />
-        <item itemvalue="Application.JFrameDisableButton" />
       </list>
     </recent_temporary>
   </component>
@@ -330,7 +346,7 @@
       <workItem from="1569059601759" duration="6850000" />
       <workItem from="1569296546300" duration="3373000" />
       <workItem from="1569471305833" duration="7218000" />
-      <workItem from="1569557784141" duration="16225000" />
+      <workItem from="1569557784141" duration="21350000" />
     </task>
     <task id="LOCAL-00001" summary="Amended gitignore">
       <created>1565666906861</created>
@@ -598,7 +614,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569585135213</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Initial commit">
+      <created>1569672752093</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1569672752093</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -613,7 +636,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="187342000" />
+    <option name="totallyTimeSpent" value="192467000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -638,7 +661,7 @@
       <window_info id="Repositories" order="7" weight="0.32963988" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3008596" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2965616" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3982808" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -771,13 +794,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/week8/DomesticDivision.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/week8/Division.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1200,13 +1216,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/week9/JPizza.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="59" column="19" lean-forward="true" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
+        <state relative-caret-position="256">
+          <caret line="60" column="30" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#506#514#0" expanded="true" />
             <element signature="e#397#405#0" expanded="true" />
             <element signature="e#2314#2315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/JCapital.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="47" column="41" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#389#397#0" expanded="true" />
+            <element signature="e#1570#1571#0" expanded="true" />
+            <element signature="e#1599#1600#0" expanded="true" />
           </folding>
         </state>
       </provider>
