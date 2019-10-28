@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbcfcb97-f5c7-4045-9175-73bdf5190017" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/week12/JChangeSizeAndColorPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/JFontSizesPanel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week12/DebugSixteen1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week12/DebugSixteen1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week12/DebugSixteen2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week12/DebugSixteen2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week12/DebugSixteen3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week12/DebugSixteen3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week12/DebugSixteen4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week12/DebugSixteen4.java" afterDir="false" />
     </list>
     <list id="b6640476-fc09-497e-a23e-d47fafc0eb54" name="set secrete member field with a randon number between min and max" comment="set secrete member field with a randon number between min and max" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,38 +29,74 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/week12/DebugSixteen1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="27" column="53" lean-forward="true" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+            <state relative-caret-position="294">
+              <caret line="17" column="74" selection-start-line="17" selection-start-column="74" selection-end-line="17" selection-end-column="74" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#255#256#0" expanded="true" />
-                <element signature="e#294#295#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/week12/DebugSixteen2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="17" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#409#410#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
-                <element signature="e#1011#1012#0" expanded="true" />
-                <element signature="e#1051#1052#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/week6/FixDebugSeven3.java">
+        <entry file="file://$PROJECT_DIR$/src/week12/DebugSixteen2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="-273">
+              <caret line="32" column="4" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#409#410#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#1055#1056#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/week12/DebugSixteen3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="32" column="4" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/week12/DebugSixteen4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/week12/JFontSizesPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="479">
+              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/week12/JChangeSizeAndColorPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -76,8 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/week8/IncomingPhoneCall.java" />
-        <option value="$PROJECT_DIR$/src/week8/OutgoingPhoneCall.java" />
         <option value="$PROJECT_DIR$/src/week8/PhoneCall.java" />
         <option value="$PROJECT_DIR$/src/week8/DemoPhoneCall.java" />
         <option value="$PROJECT_DIR$/src/week8/NewspaperSubscription.java" />
@@ -123,17 +163,19 @@
         <option value="$PROJECT_DIR$/src/week10/JFlexiblePanel.java" />
         <option value="$PROJECT_DIR$/src/week10/JPanelDemo.java" />
         <option value="$PROJECT_DIR$/src/week10/JLeftOrRight.java" />
-        <option value="$PROJECT_DIR$/src/week12/DebugSixteen3.java" />
-        <option value="$PROJECT_DIR$/src/week12/DebugSixteen4.java" />
         <option value="$PROJECT_DIR$/src/week12/DebugSixteen1.java" />
         <option value="$PROJECT_DIR$/src/week12/DebugSixteen2.java" />
+        <option value="$PROJECT_DIR$/src/week12/DebugSixteen3.java" />
+        <option value="$PROJECT_DIR$/src/week12/DebugSixteen4.java" />
+        <option value="$PROJECT_DIR$/src/week12/JFontSizesPanel.java" />
+        <option value="$PROJECT_DIR$/src/week12/JChangeSizeAndColorPanel.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -155,18 +197,6 @@
               <item name="CP2406_2019_BasicJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="CP2406_2019_BasicJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CP2406_2019_BasicJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CP2406_2019_BasicJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="week6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CP2406_2019_BasicJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CP2406_2019_BasicJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="week10" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CP2406_2019_BasicJava" type="b2602c69:ProjectViewProjectNode" />
@@ -227,9 +257,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DebugSixteen1">
-    <configuration name="DebugSixteen1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week12.DebugSixteen1" />
+  <component name="RunManager" selected="Application.JFontSizesPanel">
+    <configuration name="DebugSixteen2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week12.DebugSixteen2" />
       <module name="CP2406_Practicals" />
       <extension name="coverage">
         <pattern>
@@ -241,12 +271,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JColorFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week10.JColorFrame" />
+    <configuration name="DebugSixteen3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week12.DebugSixteen3" />
       <module name="CP2406_Practicals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week10.*" />
+          <option name="PATTERN" value="week12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,12 +284,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JLeftOrRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week10.JLeftOrRight" />
+    <configuration name="DebugSixteen4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week12.DebugSixteen4" />
       <module name="CP2406_Practicals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week10.*" />
+          <option name="PATTERN" value="week12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,12 +297,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JMovingFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week10.JMovingFrame" />
+    <configuration name="JChangeSizeAndColorPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week12.JChangeSizeAndColorPanel" />
       <module name="CP2406_Practicals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week10.*" />
+          <option name="PATTERN" value="week12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,12 +310,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JPanelDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week10.JPanelDemo" />
+    <configuration name="JFontSizesPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week12.JFontSizesPanel" />
       <module name="CP2406_Practicals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week10.*" />
+          <option name="PATTERN" value="week12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,19 +324,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.JColorFrame" />
-      <item itemvalue="Application.JMovingFrame" />
-      <item itemvalue="Application.JPanelDemo" />
-      <item itemvalue="Application.JLeftOrRight" />
-      <item itemvalue="Application.DebugSixteen1" />
+      <item itemvalue="Application.DebugSixteen2" />
+      <item itemvalue="Application.DebugSixteen3" />
+      <item itemvalue="Application.DebugSixteen4" />
+      <item itemvalue="Application.JChangeSizeAndColorPanel" />
+      <item itemvalue="Application.JFontSizesPanel" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DebugSixteen1" />
-        <item itemvalue="Application.JLeftOrRight" />
-        <item itemvalue="Application.JPanelDemo" />
-        <item itemvalue="Application.JMovingFrame" />
-        <item itemvalue="Application.JColorFrame" />
+        <item itemvalue="Application.JFontSizesPanel" />
+        <item itemvalue="Application.JChangeSizeAndColorPanel" />
+        <item itemvalue="Application.DebugSixteen4" />
+        <item itemvalue="Application.DebugSixteen3" />
+        <item itemvalue="Application.DebugSixteen2" />
       </list>
     </recent_temporary>
   </component>
@@ -358,6 +388,8 @@
       <workItem from="1570677657149" duration="18152000" />
       <workItem from="1571310860882" duration="26000" />
       <workItem from="1571715512185" duration="2871000" />
+      <workItem from="1571919135426" duration="640000" />
+      <workItem from="1572255427313" duration="1423000" />
     </task>
     <task id="LOCAL-00001" summary="Amended gitignore">
       <created>1565666906861</created>
@@ -674,7 +706,21 @@
       <option name="project" value="LOCAL" />
       <updated>1570949017235</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Initial commit">
+      <created>1571919153447</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1571919153447</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Initial commit">
+      <created>1571919176922</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1571919176922</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -689,7 +735,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="218425000" />
+    <option name="totallyTimeSpent" value="220488000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -701,9 +747,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.2785235" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.2857143" />
       <window_info id="Structure" order="1" sideWeight="0.50141644" side_tool="true" weight="0.17449665" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -713,7 +760,7 @@
       <window_info id="Repositories" order="7" weight="0.32963988" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28328612" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28223497" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3982808" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -723,7 +770,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.49291784" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.31586403" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.31518623" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -846,20 +893,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/week7/FixDebugTen1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week7/FixDebugTen2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/week7/FixDebugTen3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
@@ -1260,20 +1293,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/week12/DebugSixteen3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="8" column="28" selection-start-column="2" selection-end-line="53" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week12/DebugSixteen4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="6" column="28" selection-start-column="2" selection-end-line="55" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/week10/DebugFifteen1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="802">
@@ -1284,35 +1303,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/week12/DebugSixteen1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="27" column="53" lean-forward="true" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/week6/FixDebugSeven3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week12/DebugSixteen1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="17" column="74" selection-start-line="17" selection-start-column="74" selection-end-line="17" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/week12/DebugSixteen2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="17" selection-end-column="4" />
+        <state relative-caret-position="-273">
+          <caret line="32" column="4" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#1011#1012#0" expanded="true" />
-            <element signature="e#1051#1052#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#1055#1056#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week12/DebugSixteen3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="32" column="4" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week12/DebugSixteen4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week12/JFontSizesPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week12/JChangeSizeAndColorPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

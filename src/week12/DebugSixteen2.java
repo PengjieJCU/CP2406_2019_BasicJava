@@ -29,14 +29,14 @@ public class DebugSixteen2 extends JPanel implements MouseListener
    public void mousePressed(MouseEvent e)
    {
       x = e.getX();
-      y = e.gety();
+      y = e.getY();
    }
 
    @Override
    public void mouseClicked(MouseEvent e)
    {
       if(e.getClickCount() == 2)
-        size = 20;
+        size = 10;
       else
         size = 20;
      repaint();
