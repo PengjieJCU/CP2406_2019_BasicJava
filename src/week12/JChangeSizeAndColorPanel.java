@@ -27,7 +27,7 @@ public class JChangeSizeAndColorPanel extends JPanel implements ActionListener {
         g.setFont(font);
         g.setColor(color);
         int YPOS = 120;
-        String phrase = "Programming 3 JAVA";
+        String phrase = "Programming 3 Java";
         g.drawString(phrase, xPos, YPOS);
     }
 
